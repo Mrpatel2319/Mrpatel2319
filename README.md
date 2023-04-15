@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mritunjay patel
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Softwares(C++) and Websites(php)
+- 💞️ I’m looking to collaborate on JS projects.
 - 📫 How to reach me mritunjaypatel2319@gmail.com
 @Mrpatel2319
 
